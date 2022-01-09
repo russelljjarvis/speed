@@ -3,10 +3,9 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub" src="https://img.shields.io/github/issues/schlowm0/speed.svg">
-  <img alt="GitHub" src="https://img.shields.io/github/issues-closed/schlowm0/speed.svg">
-  <img alt="GitHub" src="https://img.shields.io/github/commit-activity/m/schlowm0/speed.svg">
-  <img alt="GitHub" src="https://github.com/schlowm0/speed/workflows/CI/badge.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/issues/samalika/speed.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/issues-closed/samalika/speed.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/commit-activity/m/samalika/speed.svg">
 
 </p>
 

@@ -1,4 +1,28 @@
-# A compiler for ORCA a Neuromorphic Signal Processor
+<h1 align="center">
+  A compiler for ORCA a Neuromorphic Signal Processor
+</h1>
+
+<p align="center">
+  <img alt="GitHub" src="https://img.shields.io/github/issues/russelljjarvis/speed.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/issues-closed/russelljjarvis/speed.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/commit-activity/m/russelljjarvis/speed.svg">
+  <img alt="GitHub" src="https://github.com/russelljjarvis/speed/workflows/CI/badge.svg">
+
+</p>
+
+<!--  <img alt="GitHub" src="https://github.com/russelljjarvis/speed/workflows/CI/badge.svg"> -->
+
+<p align="center">
+  <a href="#Description">Description</a> •
+  <a href="#teili2orca">teili2orca</a> •
+  <a href="#Getting-Started">Getting-Started</a> •
+  <a href="#Tutorial">Tutorial</a> •
+</p>
+
+<p align="center">
+
+
+# Description
 This compiler will be used to program the ORCA neuromorphic processor using 
 a high level Network Descript Language (NDL) such as `brian2` or `teili`. 
 Ultimately we would like to build a proper backend. Before doing this I 
@@ -31,7 +55,7 @@ We need to grab the network object and extract the following information.
    *  Static vs. plastic
 *  Neuron & Synapse parameter dictionaries
 
-## Installation
+## Getting-Started
 In order to specify networks you either need to install [brian2](https://brian2.readthedocs.io/en/stable/introduction/install.html) or [teili](https://teili.readthedocs.io/en/latest/scripts/Getting%20started.html#installation).
 Both network descriptions work out of the box and can be converted to an
 ORCA friendly format. 
